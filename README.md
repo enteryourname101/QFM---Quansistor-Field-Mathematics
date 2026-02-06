@@ -50,5 +50,5 @@ It defines the **mathematical viewpoint** from which implementations may later e
 
 ---
 
-## Position in the QFC Stack
+
 
