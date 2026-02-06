@@ -1,0 +1,35 @@
+{
+  "license": "CC-BY-NC-ND-4.0",
+  "license_name": "Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International",
+  "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "copyright": "© 2026 Roman Smrčka, Brno",
+  "project": "Quansistor Field Computing (QFC)",
+  "organization": "101research.group",
+  "scope": {
+    "documents": {
+      "license": "CC-BY-NC-ND-4.0",
+      "commercial_use": false,
+      "derivatives_allowed": false,
+      "attribution_required": true
+    },
+    "concepts_and_frameworks": {
+      "names": [
+        "Quansistor",
+        "Quansistor Field Computing",
+        "SMRK Hamiltonian"
+      ],
+      "usage": "research-and-education-only",
+      "commercialization": "explicit-permission-required"
+    },
+    "metadata_and_ai_files": {
+      "license": "CC-BY-4.0",
+      "attribution_required": true
+    }
+  },
+  "distribution_context": "public-research-artifact",
+  "canonical_sources": {
+    "zenodo": "https://doi.org/10.5281/zenodo.18493757",
+    "project_home": "https://101research.group"
+  },
+  "last_updated": "2026-02-06"
+}
