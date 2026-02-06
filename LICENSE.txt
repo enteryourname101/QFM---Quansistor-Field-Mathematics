@@ -1,7 +1,7 @@
 License
 =======
 
-© 2026 Roman Smrčka, Brno
+
 101research.group
 
 ----------------------------------------------------------------------
@@ -68,3 +68,4 @@ pre-publication nature of the Quansistor Field Computing project.
 
 For licensing inquiries, contact:
 https://101research.group
+
