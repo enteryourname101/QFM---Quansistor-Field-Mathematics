@@ -2,7 +2,7 @@
   "license": "CC-BY-NC-ND-4.0",
   "license_name": "Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International",
   "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-  "copyright": "© 2026 Roman Smrčka, Brno",
+  
   "project": "Quansistor Field Computing (QFC)",
   "organization": "101research.group",
   "scope": {
@@ -33,3 +33,4 @@
   },
   "last_updated": "2026-02-06"
 }
+
