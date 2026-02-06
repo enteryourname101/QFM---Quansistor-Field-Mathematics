@@ -6,7 +6,6 @@
 **Organization:** 101research.group  
 
 **Author:** Enter Yourname  
-**Copyright:** © Roman Smrčka  
 **License:** Apache License 2.0 (textual work), see LICENSE.txt  
 
 ---
